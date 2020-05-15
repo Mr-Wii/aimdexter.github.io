@@ -39,11 +39,10 @@ Colors:
 /******************************/
 /*     01. General Styles     */
 /******************************/
-body,
 .masthead {
-  height: 100vh;
+  height: 70vh;
   min-height: 500px;
-  background-image: url('../images/bg.png');
+  background-image: url('https://raw.githubusercontent.com/Mr-Wii/aimdexter.github.io/master/images/bg.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
